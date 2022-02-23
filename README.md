@@ -31,7 +31,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 </div>  
  
  
-  ##      
+  ##          
    
   
  ### Visitantes no Perfil
