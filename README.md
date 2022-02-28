@@ -33,6 +33,8 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
  
   ##          
    
+  ### Visitantes no Perfil
+ <img align="relative" src="https://profile-counter.glitch.me/gabriel1999ap/count.svg" > 
   
 
   
