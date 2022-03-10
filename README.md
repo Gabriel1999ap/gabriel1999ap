@@ -11,7 +11,15 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
  <a href="https://github.com/gabriel1999ap">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1999ap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1999ap&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
+ 
+  <div align="center">
+   <a href="https://github.com/gabriel1999ap">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1999ap&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1999ap&&layout=compact&hide=shell&theme=highcontrast">
+
+  </div>
  
 
   <div style="display: inline_block"><br>
