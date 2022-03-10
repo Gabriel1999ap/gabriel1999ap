@@ -8,9 +8,9 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
  - 🌚 *22 anos.*
  
  
-  <div align="center">
+  <div >
    <a href="https://github.com/gabriel1999ap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel1999ap&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1999ap&&layout=compact&hide=shell&theme=highcontrast">
 
   </div>
