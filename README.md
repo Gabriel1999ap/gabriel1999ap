@@ -3,7 +3,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 <img align='right' src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" width="100">
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas* 
- - 👩🏿‍💻 *Full Stack Development Assistant na <a href="https://www.penze.com.br/" target="_blank">Penze</a>*;
+ - 👩🏿‍💻 *Desenvolvedor Front end | Web Development na <a href="https://www.penze.com.br/" target="_blank">Penze</a>*;
  - 📘 *Estudando HTML, JAVASCRIPT e CSS*; 
  - 🌚 *22 anos.*
  
