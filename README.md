@@ -3,8 +3,8 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 <img align='right' src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" width="100">
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas* 
- - 🎓 *Formado em administração de empresas*
- - 👩🏿‍💻 *Desenvolvedor Full Stack | Angular | React JS*;
+ - 🎓*Formado em administração de empresas*
+ - 👩🏿‍💻 *Desenvolvedor Full Stack | Angular | React JS;
  - 🌚 *22 anos.*
  
  
@@ -18,7 +18,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 
   <div style="display: inline_block"><br>
    
-  ### Ferramentas e Tecnologias ⚠️Em Aprendizado⚠️
+  ### Ferramentas e Tecnologias
    
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="40" width="40"/> 
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" width="40"/>
@@ -27,8 +27,9 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="40" width="40"/>
    <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40" width="40"/>
    <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="40" width="40"/>
-   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="40" width="40"/>
-   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> 
+  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="50" width="50" />
+
+   
       
 </div>  
  
