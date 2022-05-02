@@ -4,7 +4,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas* 
  - 🎓*Formado em administração de empresas*
- - 👩🏿‍💻 *Desenvolvedor Full Stack | Java SpringBoot | React Js na <a href="https://www.penze.com.br/" target="_blank">Penze</a>*;
+ - 👩🏿‍💻 *Desenvolvedor Full Stack | Angular | React JS;
  - 🌚 *22 anos.*
  
  
