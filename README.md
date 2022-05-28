@@ -1,12 +1,11 @@
 Olá! Eu sou o Gabriel Aparecido de Almeida 👋 
 
-<img align='right' src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" width="100">
+<img align="right" src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" width="100">
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
- - 🎓*Formado em administração de empresas;*
+ - 🎓 *Formado em administração de empresas;*
  - 👩🏿‍💻 *Assistente de Informática na Nova America Agricola Ltda*
  - 🌚 *22 anos.*
- 
  
   <div >
    <a href="https://github.com/gabriel1999ap">
