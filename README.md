@@ -4,7 +4,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
  - 🎓*Formado em administração de empresas;*
- - 👩🏿‍💻 *Desenvolvedor Full Stack | Angular | React JS;*
+ - 👩🏿‍💻 *Assistente de Informática na Nova America Agricola Ltda*
  - 🌚 *22 anos.*
  
  
