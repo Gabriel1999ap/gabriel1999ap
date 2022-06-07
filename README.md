@@ -25,6 +25,8 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
    <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="40" width="40"/>
    <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="40" width="40"/>
   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="50" width="50" />
+   <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50" width="50" />
+
 
    
       
