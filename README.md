@@ -3,7 +3,7 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
  - 🎓 *Formado em administração de empresas;*
  - 👩🏿‍💻 *Assistente de Informática na Nova America Agricola Ltda*
- - 🌚 *22 anos.*
+ - 🌚 *23 anos.*
  
   <div >
    <a href="https://github.com/gabriel1999ap">
