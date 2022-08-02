@@ -2,7 +2,8 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
  - 🎓 *Formado em administração de empresas;*
- - 👩🏿‍💻 *Assistente de Informática na Nova America Agricola Ltda*
+ - 👩🏿‍💻 *Assistente de Informática na Nova America Agricola Ltda;*
+ - 🧑🏼‍💻 *Tableau | PLSQL | PHP;*
  - 🌚 *23 anos.*
  
   <div >
