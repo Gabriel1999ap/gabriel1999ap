@@ -19,10 +19,11 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
   ### Ferramentas e Tecnologias
    
 
-  <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40"/>
-  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="50" width="50" />
-  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50" width="50" />
-   <img align = "center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" width="50" />
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" title="JavaScript">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="50" width="50" title="Oracle">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50" width="50" title="PHP">
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" width="50" title="Tableau">
+
           
 
 
