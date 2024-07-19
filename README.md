@@ -2,9 +2,9 @@ Olá! Eu sou o Gabriel Aparecido de Almeida 👋
 
  - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
  - 🎓 *Formado em administração de empresas;*
- - 👩🏿‍💻 *Analista de Sistemas JR na Nova America Agricola Ltda;*
+ - 👩🏿‍💻 *Analista de Sistemas PL na Nova America Agricola Ltda;*
  - 🧑🏼‍💻 *Tableau | PLSQL | PHP;*
- - 🌚 *24 anos.*
+ - 🌚 *25 anos.*
  
   <div >
    <a href="https://github.com/gabriel1999ap">
