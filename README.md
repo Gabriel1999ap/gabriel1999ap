@@ -1,54 +1,62 @@
-Olá! Eu sou o Gabriel Aparecido de Almeida 👋 
-
- - 💻 *Estudante de Análise e Desenvolvimento de Sistemas;* 
- - 🎓 *Formado em administração de empresas;*
- - 👩🏿‍💻 *Analista de Sistemas PL na Nova America Agricola Ltda;*
- - 🧑🏼‍💻 *Tableau | PLSQL | PHP;*
- - 🌚 *25 anos.*
- 
-  <div >
-   <a href="https://github.com/gabriel1999ap">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel1999ap&&layout=compact&hide=shell&theme=highcontrast">
-
-  </div>
- 
-
-  <div style="display: inline_block"><br>
-   
-  ### Ferramentas e Tecnologias
-   
-
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" title="JavaScript">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="50" width="50" title="Oracle">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50" width="50" title="PHP">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" width="50" title="Tableau">
-
-          
-
-
-   
-      
-</div>  
- 
- 
-  ##          
-   
-  ### Visitantes no Perfil
- <img align="relative" src="https://profile-counter.glitch.me/gabriel1999ap/count.svg" > 
-  
-
-  
- ##
-  ### Contatos
- <div>
-  
-<a href="https://www.instagram.com/gabri.ap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-almeida-9453b3197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5518996198273" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd3OTdtNGkzN2FqaTBwdGFlNjFpaGJxeHk2MnlqMXNnendjeHp3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif"  />
 </div>
-   
- <div><img alt="program" width="200" src="https://i.imgur.com/W9JAcV9.gif"></div>
- 
- 
- ![Snake animation](https://github.com/gabriel1999ap/gabriel1999ap/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-almeida1999/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel1999ap&"  />
+</div> -->
+
+###
+
+<h1 align="center">E aí, tudo certo? 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+###
+
+<p align="left">
+Bacharel em Administração de Empresas e em Análise e Desenvolvimento de Sistemas.<br><br>
+
+- 🔭 Consultor Oracle Integration Cloud (OIC)<br>
+- 📚 Atuação em integrações de dados, desenvolvimento em PL/SQL, consumo e exposição de APIs REST/SOAP e construção de interfaces (Oracle APEX)<br>
+- ⚡ Interesses: automação de processos, arquitetura de integrações e Inteligência Artificial
+</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="70" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="70" alt="sql"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="70" alt="php"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" alt="js"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70" alt="py"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" height="70" alt="tableau"  />
+  <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2024/08/Oracle-Cloud-Emblem.png" height="70" alt="oracle_cloud"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="70" alt="api"  />
+</div>
+
+
+###
